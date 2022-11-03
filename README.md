@@ -1,14 +1,11 @@
 # chrome-dino
 An imitation of the chrome dinosaur game
-### Needed libraries
+
+## Getting Started
+### Prerequisites
 This application requires the following library:
 
 * pygame
-
----
-
-To install pygame type the following command:
-
 ```
 pip install pygame
 ```
