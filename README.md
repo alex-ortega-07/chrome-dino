@@ -9,3 +9,6 @@ This application requires the following library:
 ```
 pip install pygame
 ```
+
+## Usage
+Once the application is opened, just press `ENTER` to start the game. To jump press the `SPACE BAR`.
